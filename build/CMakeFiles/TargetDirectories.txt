@@ -1,0 +1,3 @@
+/home/krewer/Documents/firstWindow/build/CMakeFiles/my_opengl_project.dir
+/home/krewer/Documents/firstWindow/build/CMakeFiles/edit_cache.dir
+/home/krewer/Documents/firstWindow/build/CMakeFiles/rebuild_cache.dir

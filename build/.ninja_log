@@ -1,0 +1,14 @@
+# ninja log v6
+18	913	1721846304605987156	CMakeFiles/my_opengl_project.dir/window.cpp.o	b1c5c0d8571cd4ac
+913	1097	1721846305501003819	my_opengl_project	1bf06f1b95a404
+2	91	1721751702445460043	CMakeFiles/my_opengl_project.dir/include/glad.c.o	1d1ebe4513b5d809
+1	897	1721848419234042932	CMakeFiles/my_opengl_project.dir/window.cpp.o	b1c5c0d8571cd4ac
+898	1062	1721848420130042205	my_opengl_project	1bf06f1b95a404
+2	900	1721848565224548443	CMakeFiles/my_opengl_project.dir/window.cpp.o	b1c5c0d8571cd4ac
+900	1061	1721848566122543274	my_opengl_project	1bf06f1b95a404
+1	886	1721848604928297899	CMakeFiles/my_opengl_project.dir/window.cpp.o	b1c5c0d8571cd4ac
+886	1036	1721848605813291814	my_opengl_project	1bf06f1b95a404
+1	892	1721848614001234528	CMakeFiles/my_opengl_project.dir/window.cpp.o	b1c5c0d8571cd4ac
+892	1048	1721848614892228184	my_opengl_project	1bf06f1b95a404
+2	909	1721849190429997098	CMakeFiles/my_opengl_project.dir/window.cpp.o	b1c5c0d8571cd4ac
+909	1082	1721849191336982300	my_opengl_project	1bf06f1b95a404

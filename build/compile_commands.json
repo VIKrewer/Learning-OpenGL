@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/krewer/Documents/firstWindow/build",
+  "command": "/usr/bin/clang++ -g -o CMakeFiles/my_opengl_project.dir/window.cpp.o -c /home/krewer/Documents/firstWindow/window.cpp",
+  "file": "/home/krewer/Documents/firstWindow/window.cpp",
+  "output": "CMakeFiles/my_opengl_project.dir/window.cpp.o"
+},
+{
+  "directory": "/home/krewer/Documents/firstWindow/build",
+  "command": "/usr/bin/clang -g -o CMakeFiles/my_opengl_project.dir/include/glad.c.o -c /home/krewer/Documents/firstWindow/include/glad.c",
+  "file": "/home/krewer/Documents/firstWindow/include/glad.c",
+  "output": "CMakeFiles/my_opengl_project.dir/include/glad.c.o"
+}
+]
